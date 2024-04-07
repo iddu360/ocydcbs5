@@ -1,0 +1,9 @@
+
+
+
+
+RewriteEngine on
+RewriteRule ^Otubanga_Pentecostal_Assemblies_of_God?$ index.php
+RewriteRule ^Otubanga_blog?$ blog.php
+RewriteRule ^Otubanga_child_and_youth_development_center?$ cdc.php
+RewriteRule ^Ebenezer_nursery_and_primary_school?$ ebenezer.php
